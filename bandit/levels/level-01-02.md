@@ -6,9 +6,9 @@ Encontrar a senha do próximo nível em um arquivo chamado `-`, localizado no di
 
 ## Exploração
 
-Após listar o conteúdo do diretório com `ls -a`, encontrei um arquivo chamado `-`.
+Após listar o conteúdo do diretório com `ls -a`, identifiquei um arquivo chamado `-`.
 
-A princípio, confundi o arquivo com um diretório e tentei acessá-lo usando `cd`. Ao perceber que não era um diretório, experimentei:
+Inicialmente, tentei ler seu conteúdo com:
 
 ```bash
 cat -
