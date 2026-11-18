@@ -16,12 +16,15 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 Após informar a senha fornecida pela plataforma, a autenticação foi concluída e obtive acesso ao terminal Linux do Bandit.
 
+Ao finalizar os exercícios, utilizei `exit` para encerrar a sessão SSH e retornar ao PowerShell.
+
 ## Comandos utilizados
 
 | Comando | Finalidade |
 |---|---|
 | `ssh` | Estabelecer uma conexão remota segura |
-| `-p` | Especificar a porta utilizada na conexão |
+| `-p` | Especificar a porta utilizada na conexão SSH |
+| `exit` | Encerrar a sessão remota e retornar ao terminal local |
 
 ## Resultado
 
@@ -30,6 +33,8 @@ Conexão SSH estabelecida com sucesso, permitindo o acesso ao ambiente remoto do
 ## Aprendizado
 
 Pratiquei a utilização do SSH para acessar um sistema Linux remoto, identificando os elementos necessários para a conexão: usuário, endereço do servidor, porta e senha.
+
+Também aprendi a encerrar uma sessão SSH utilizando `exit`, comando que precisei pesquisar por conta própria.
 
 ---
 
