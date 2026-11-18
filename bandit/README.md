@@ -8,20 +8,15 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 
 - **Plataforma:** OverTheWire
 - **Wargame:** Bandit
-- **Acesso:** SSH
+- **Acesso:** SSH pelo PowerShell (Windows 10)
 - **Sistema:** Ambiente Linux remoto disponibilizado pela plataforma
 
 ## Progresso
 
 | Nível | Conceitos explorados | Status |
 |---|---|---|
-| 0 → 1 | A documentar | Pendente |
-
-## Documentação dos níveis
-
-Os registros serão adicionados conforme os desafios forem concluídos, incluindo objetivos, comandos relevantes, raciocínio e aprendizados.
-
-As soluções serão descritas com foco nos conceitos estudados, sem divulgar senhas ou credenciais dos níveis.
+| [0](./levels/level-00.md) | Conexão remota via SSH | Concluído |
+| [0 → 1](./levels/level-00-01.md) | Listagem e leitura de arquivos | Concluído |
 
 ---
 
