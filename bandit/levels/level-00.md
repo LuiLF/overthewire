@@ -30,12 +30,6 @@ Ao finalizar os exercícios, utilizei `exit` para encerrar a sessão SSH e retor
 
 Conexão SSH estabelecida com sucesso, permitindo o acesso ao ambiente remoto do Bandit.
 
-## Aprendizado
-
-Pratiquei a utilização do SSH para acessar um sistema Linux remoto, identificando os elementos necessários para a conexão: usuário, endereço do servidor, porta e senha.
-
-Também aprendi a encerrar uma sessão SSH utilizando `exit`, comando que precisei pesquisar por conta própria.
-
 ---
 
 [← Voltar ao Bandit](../README.md)
