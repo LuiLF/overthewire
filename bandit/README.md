@@ -19,6 +19,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [0 → 1](./levels/level-00-01.md) | Listagem e leitura de arquivos | Concluído |
 | [1 → 2](./levels/level-01-02.md) | Leitura de arquivos com nomes especiais | Concluído |
 | [2 → 3](./levels/level-02-03.md) | Leitura de arquivos com espaços e hífens no nome | Concluído |
+| [3 → 4](./levels/level-03-04.md) | Localização e leitura de arquivos ocultos | Concluído |
 
 ---
 
