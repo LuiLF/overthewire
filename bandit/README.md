@@ -25,6 +25,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [6 → 7](./levels/level-06-07.md) | Busca de arquivos por proprietário, grupo e tamanho com `find` | Concluído |
 | [7 → 8](./levels/level-07-08.md) | Busca de padrões em arquivos com `grep` | Concluído |
 | [8 → 9](./levels/level-08-09.md) | Identificação de linhas únicas com `sort` e `uniq` | Concluído |
+| [9 → 10](./levels/level-09-10.md) | Extração de texto de arquivos binários com `strings` e filtragem com `grep` | Concluído |
 
 ---
 
