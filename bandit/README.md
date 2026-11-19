@@ -23,6 +23,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [4 → 5](./levels/level-04-05.md) | Identificação de tipos de arquivo com `file` | Concluído |
 | [5 → 6](./levels/level-05-06.md) | Busca de arquivos por tamanho com `find` | Concluído |
 | [6 → 7](./levels/level-06-07.md) | Busca de arquivos por proprietário, grupo e tamanho com `find` | Concluído |
+| [7 → 8](./levels/level-07-08.md) | Busca de padrões em arquivos com `grep` | Concluído |
 
 ---
 
