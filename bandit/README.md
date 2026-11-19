@@ -26,6 +26,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [7 → 8](./levels/level-07-08.md) | Busca de padrões em arquivos com `grep` | Concluído |
 | [8 → 9](./levels/level-08-09.md) | Identificação de linhas únicas com `sort` e `uniq` | Concluído |
 | [9 → 10](./levels/level-09-10.md) | Extração de texto de arquivos binários com `strings` e filtragem com `grep` | Concluído |
+| [10 → 11](./levels/level-10-11.md) | Codificação e decodificação de dados com Base64 | Concluído |
 
 ---
 
