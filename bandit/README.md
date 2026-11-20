@@ -30,6 +30,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [11 → 12](./levels/level-11-12.md) | Substituição de caracteres e decodificação ROT13 com `tr` | Concluído |
 | [12 → 13](./levels/level-12-13.md) | Hexdump (`xxd`), identificação de arquivos (`file`), gzip, bzip2 e TAR | Concluído |
 | [13 → 14](./levels/level-13-14.md) | SSH com chave privada (`ssh -i`), transferência de arquivos (`scp`) e diagnóstico de conexões | Concluído |
+| [14 → 15](./levels/level-14-15.md) | Netcat (`nc`), conexões TCP, localhost e portas de rede | Concluído |
 
 ---
 
