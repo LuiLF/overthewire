@@ -37,6 +37,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [18 → 19](./levels/level-18-19.md) | SSH com execução remota de comandos, `.bashrc` e diferenciação entre maiúsculas e minúsculas | Concluído |
 | [19 → 20](./levels/level-19-20.md) | SetUID, execução de binários ELF, permissões e acesso a arquivos protegidos | Concluído |
 | [20 → 21](./levels/level-20-21.md) | Netcat, comunicação TCP, cliente-servidor, tmux e controle de processos | Concluído |
+| [21 → 22](./levels/level-21-22.md) | Cron, tarefas agendadas, scripts Bash, permissões e redirecionamento de saída | Concluído |
 
 ---
 
