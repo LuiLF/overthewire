@@ -29,6 +29,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [10 → 11](./levels/level-10-11.md) | Codificação e decodificação de dados com Base64 | Concluído |
 | [11 → 12](./levels/level-11-12.md) | Substituição de caracteres e decodificação ROT13 com `tr` | Concluído |
 | [12 → 13](./levels/level-12-13.md) | Hexdump (`xxd`), identificação de arquivos (`file`), gzip, bzip2 e TAR | Concluído |
+| [13 → 14](./levels/level-13-14.md) | SSH com chave privada (`ssh -i`), transferência de arquivos (`scp`) e diagnóstico de conexões | Concluído |
 
 ---
 
