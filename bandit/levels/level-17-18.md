@@ -55,8 +55,6 @@ Como `passwords.new` foi informado como primeiro argumento, a linha marcada com 
 
 Utilizei essa linha como senha do próximo nível.
 
-Ao tentar autenticar no Bandit 18, a sessão foi encerrada com a mensagem `Byebye!`, comportamento previsto no enunciado e relacionado ao desafio seguinte.
-
 ## Observações
 
 - `diff` compara arquivos e, por padrão, exibe suas diferenças.
@@ -64,7 +62,6 @@ Ao tentar autenticar no Bandit 18, a sessão foi encerrada com a mensagem `Byeby
 - No formato padrão, `<` identifica o conteúdo do primeiro arquivo e `>` o conteúdo do segundo.
 - A indicação `42c42` significa que a linha 42 do primeiro arquivo foi alterada em relação à linha 42 do segundo.
 - A opção `--suppress-common-lines` não era necessária nesse caso, pois o formato padrão do `diff` já omite as linhas iguais.
-- A mensagem `Byebye!` após a autenticação é um comportamento previsto pelo laboratório e não significa necessariamente que a senha esteja incorreta.
 
 ---
 
