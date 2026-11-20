@@ -32,6 +32,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [13 → 14](./levels/level-13-14.md) | SSH com chave privada (`ssh -i`), transferência de arquivos (`scp`) e diagnóstico de conexões | Concluído |
 | [14 → 15](./levels/level-14-15.md) | Netcat (`nc`), conexões TCP, localhost e portas de rede | Concluído |
 | [15 → 16](./levels/level-15-16.md) | OpenSSL (`s_client`), handshake TLS, certificados digitais e conexões criptografadas | Concluído |
+| [16 → 17](./levels/level-16-17.md) | Nmap (`-sV`), identificação de serviços TCP/TLS, OpenSSL e chave privada SSH | Concluído |
 
 ---
 
