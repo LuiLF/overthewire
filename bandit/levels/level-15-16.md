@@ -49,8 +49,7 @@ O serviço respondeu com `Correct!` e retornou a senha do próximo nível, concl
 - A opção `-connect` utiliza o formato `host:porta`.
 - TLS é o sucessor do SSL, que atualmente é considerado obsoleto.
 - O handshake TLS negocia os parâmetros necessários para proteger a comunicação.
-- O certificado apresentado pelo servidor era autoassinado, portanto sua identidade não foi validada por uma autoridade certificadora confiável.
-- Uma conexão criptografada não garante, por si só, a autenticidade do servidor.
+- O servidor apresentou um certificado autoassinado. Embora a conexão tenha sido criptografada com TLS 1.3, a identidade do servidor não foi validada por uma autoridade certificadora confiável.
 - Diferentemente do nível anterior, que utilizava TCP sem TLS, este desafio exigia uma comunicação criptografada.
 
 ---
