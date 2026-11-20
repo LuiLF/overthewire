@@ -35,6 +35,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [16 → 17](./levels/level-16-17.md) | Nmap (`-sV`), identificação de serviços TCP/TLS, OpenSSL e autenticação SSH por chave privada | Concluído |
 | [17 → 18](./levels/level-17-18.md) | Comparação de arquivos com `diff` e identificação de linhas alteradas | Concluído |
 | [18 → 19](./levels/level-18-19.md) | SSH com execução remota de comandos, `.bashrc` e diferenciação entre maiúsculas e minúsculas | Concluído |
+| [19 → 20](./levels/level-19-20.md) | SetUID, execução de binários ELF, permissões e acesso a arquivos protegidos | Concluído |
 
 ---
 
