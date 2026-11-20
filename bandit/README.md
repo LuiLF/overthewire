@@ -31,6 +31,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [12 → 13](./levels/level-12-13.md) | Hexdump (`xxd`), identificação de arquivos (`file`), gzip, bzip2 e TAR | Concluído |
 | [13 → 14](./levels/level-13-14.md) | SSH com chave privada (`ssh -i`), transferência de arquivos (`scp`) e diagnóstico de conexões | Concluído |
 | [14 → 15](./levels/level-14-15.md) | Netcat (`nc`), conexões TCP, localhost e portas de rede | Concluído |
+| [15 → 16](./levels/level-15-16.md) | OpenSSL (`s_client`), handshake TLS, certificados digitais e conexões criptografadas | Concluído |
 
 ---
 
