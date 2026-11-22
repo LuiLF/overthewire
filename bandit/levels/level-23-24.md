@@ -123,3 +123,7 @@ A senha foi recuperada com sucesso, concluindo o objetivo do nível.
 - Estruturas condicionais e de repetição em scripts.
 - Redirecionamento de saída com `>`.
 - Execução de processos com permissões de outro usuário.
+
+---
+
+[← Nível anterior](level-22-23.md) · [Voltar ao índice](../README.md)
