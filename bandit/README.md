@@ -39,6 +39,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [20 → 21](./levels/level-20-21.md) | Netcat, comunicação TCP, cliente-servidor, tmux e controle de processos | Concluído |
 | [21 → 22](./levels/level-21-22.md) | Cron, tarefas agendadas, scripts Bash, permissões e redirecionamento de saída | Concluído |
 | [22 → 23](./levels/level-22-23.md) | Cron, scripts Bash, variáveis, pipes, MD5, cut e contexto de execução | Concluído |
+| [23 → 24](./levels/level-23-24.md) | Cron, scripts Bash, permissões, stat, condicionais, timeout e redirecionamento de saída | Concluído |
 
 ---
 
