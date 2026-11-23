@@ -4,6 +4,8 @@ Documentação dos meus estudos no [Bandit](https://overthewire.org/wargames/ban
 
 O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os aprendizados adquiridos durante a resolução dos desafios.
 
+**Status: Concluído — Todos os desafios disponíveis documentados (Bandit 0–33).**
+
 ## Ambiente
 
 - **Plataforma:** OverTheWire
@@ -45,9 +47,10 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [26 → 27](./levels/level-26-27.md) | Executáveis ELF, SUID, UID/EUID, permissões Linux e execução privilegiada | Concluído |
 | [27 → 28](./levels/level-27-28.md) | Git clone, SSH com porta personalizada, PowerShell e estrutura de repositórios Git | Concluído |
 | [28 → 29](./levels/level-28-29.md) | Git log, commits, recuperação de versões e exposição de credenciais no histórico Git | Concluído |
-| [29 → 30](./levels/level-29-30.md) | Git branches, referências remotas, git show, diffs e exposição de credenciais | Concluído |
-| [30 → 31](./levels/level-30-31.md) | Git tags, referências Git, git show e GitHub Releases | Concluído |
-| [31 → 32](./levels/level-31-32.md) | Git push, .gitignore, staging, commits e pre-receive hooks | Concluído |
+| [29 → 30](./levels/level-29-30.md) | Git branches, referências remotas, `git show`, diffs e exposição de credenciais | Concluído |
+| [30 → 31](./levels/level-30-31.md) | Git tags, referências Git, `git show` e GitHub Releases | Concluído |
+| [31 → 32](./levels/level-31-32.md) | Git push, `.gitignore`, staging, commits e pre-receive hooks | Concluído |
+| [32 → 33](./levels/level-32-33.md) | Uppercase Shell, expansão de variáveis, shell escape, ELF e SUID | Concluído |
 
 ---
 
