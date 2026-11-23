@@ -8,7 +8,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 
 | Wargame | Área de estudo | Status |
 |---|---|---|
-| [Bandit](./bandit/README.md) | Fundamentos de Linux e linha de comando | Em andamento |
+| [Bandit](./bandit/README.md) | Fundamentos de Linux e linha de comando | Concluído (níveis 0–33) |
 
 ## Metodologia
 
@@ -21,4 +21,4 @@ Durante os estudos, procuro:
 
 ---
 
-*Este repositório reúne anotações pessoais de estudo e não possui vínculo oficial com o OverTheWire.*
+*Este repositório reúne anotações pessoais de estudo*
