@@ -45,6 +45,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [26 → 27](./levels/level-26-27.md) | Executáveis ELF, SUID, UID/EUID, permissões Linux e execução privilegiada | Concluído |
 | [27 → 28](./levels/level-27-28.md) | Git clone, SSH com porta personalizada, PowerShell e estrutura de repositórios Git | Concluído |
 | [28 → 29](./levels/level-28-29.md) | Git log, commits, recuperação de versões e exposição de credenciais no histórico Git | Concluído |
+| [29 → 30](./levels/level-29-30.md) | Git branches, referências remotas, git show, diffs e exposição de credenciais | Concluído |
 
 ---
 
