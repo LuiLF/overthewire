@@ -47,6 +47,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [28 → 29](./levels/level-28-29.md) | Git log, commits, recuperação de versões e exposição de credenciais no histórico Git | Concluído |
 | [29 → 30](./levels/level-29-30.md) | Git branches, referências remotas, git show, diffs e exposição de credenciais | Concluído |
 | [30 → 31](./levels/level-30-31.md) | Git tags, referências Git, git show e GitHub Releases | Concluído |
+| [31 → 32](./levels/level-31-32.md) | Git push, .gitignore, staging, commits e pre-receive hooks | Concluído |
 
 ---
 
