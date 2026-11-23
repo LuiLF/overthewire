@@ -43,6 +43,7 @@ O objetivo é registrar os conceitos explorados, as ferramentas utilizadas e os 
 | [24 → 25](./levels/level-24-25.md) | Brute force, loops Bash, printf, variáveis, Netcat, TCP e pipes | Concluído |
 | [25 → 26](./levels/level-25-26.md) | SSH com chave privada, shell de login, `exec`, `more`, Vim e shell escape | Concluído |
 | [26 → 27](./levels/level-26-27.md) | Executáveis ELF, SUID, UID/EUID, permissões Linux e execução privilegiada | Concluído |
+| [27 → 28](./levels/level-27-28.md) | Git clone, SSH com porta personalizada, PowerShell e estrutura de repositórios Git | Concluído |
 
 ---
 
